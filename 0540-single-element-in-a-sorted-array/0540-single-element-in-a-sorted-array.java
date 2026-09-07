@@ -1,33 +1,17 @@
 class Solution {
-    public int binarySearch(int[]nums,int low,int high){
-        while(low<=high){
-            int mid = low + (high-low)/2;
+    public int singleNonDuplicate(int[] nums) {
+        int n= nums.length;
 
-            if(mid>0 && nums[mid]==nums[mid-1]){
-                if(mid%2 == 0){
-                    high = mid-1;
-                }
-                else{
-                    low = mid+1;
-                }
-            }
+        HashMap<Integer,Integer> map = new HashMap<>();
+        for(int num:nums){
+            map.put(num,map.getOrDefault(num,0)+1);
+        }
 
-            else if(mid<nums.length-1 && nums[mid]==nums[mid+1]){
-                if((mid+1) % 2 == 0){
-                    high = mid - 1;
-                }
-                else{
-                    low = mid + 1;
-                }
+        for(Map.Entry<Integer,Integer> entry : map.entrySet()){
+            if(entry.getValue()==1){
+                return entry.getKey();
             }
-            else{
-                return nums[mid];
-            }  
         }
         return -1;
-    }
-    public int singleNonDuplicate(int[] nums) {
-        int n = nums.length;
-        return binarySearch(nums,0,n-1);
     }
 }

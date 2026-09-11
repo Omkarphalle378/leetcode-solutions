@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Omkarphalle378/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/Omkarphalle378/leetcode-solutions/tree/master/0392-is-subsequence) |
 ## Array
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Omkarphalle378/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [3870-count-commas-in-range](https://github.com/Omkarphalle378/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 ## Tree
 |  |
@@ -45,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Omkarphalle378/leetcode-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Omkarphalle378/leetcode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Omkarphalle378/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Omkarphalle378/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0836-rectangle-overlap](https://github.com/Omkarphalle378/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [3870-count-commas-in-range](https://github.com/Omkarphalle378/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 ## Tree
 |  |
@@ -79,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Omkarphalle378/leetcode-solutions/tree/master/0063-unique-paths-ii) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Omkarphalle378/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->

@@ -99,4 +99,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Omkarphalle378/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+## Linked List
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/Omkarphalle378/leetcode-solutions/tree/master/0707-design-linked-list) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/Omkarphalle378/leetcode-solutions/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->

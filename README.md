@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Omkarphalle378/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Omkarphalle378/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Omkarphalle378/leetcode-solutions/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Omkarphalle378/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/Omkarphalle378/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/Omkarphalle378/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/Omkarphalle378/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Omkarphalle378/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Omkarphalle378/leetcode-solutions/tree/master/0202-happy-number) |
 | [0836-rectangle-overlap](https://github.com/Omkarphalle378/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1323-maximum-69-number](https://github.com/Omkarphalle378/leetcode-solutions/tree/master/1323-maximum-69-number) |
 | [3870-count-commas-in-range](https://github.com/Omkarphalle378/leetcode-solutions/tree/master/3870-count-commas-in-range) |
@@ -129,11 +131,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Omkarphalle378/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Omkarphalle378/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Omkarphalle378/leetcode-solutions/tree/master/0202-happy-number) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Omkarphalle378/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Omkarphalle378/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Omkarphalle378/leetcode-solutions/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Omkarphalle378/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |

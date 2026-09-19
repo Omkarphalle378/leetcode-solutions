@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Omkarphalle378/leetcode-solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Omkarphalle378/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Omkarphalle378/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Omkarphalle378/leetcode-solutions/tree/master/0070-climbing-stairs) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Omkarphalle378/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0055-jump-game](https://github.com/Omkarphalle378/leetcode-solutions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Omkarphalle378/leetcode-solutions/tree/master/0063-unique-paths-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Omkarphalle378/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Omkarphalle378/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Omkarphalle378/leetcode-solutions/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/Omkarphalle378/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Omkarphalle378/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Omkarphalle378/leetcode-solutions/tree/master/0860-lemonade-change) |

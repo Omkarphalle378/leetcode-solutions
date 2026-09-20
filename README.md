@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Omkarphalle378/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0392-is-subsequence](https://github.com/Omkarphalle378/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [3498-reverse-degree-of-a-string](https://github.com/Omkarphalle378/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -163,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Omkarphalle378/leetcode-solutions/tree/master/0455-assign-cookies) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/Omkarphalle378/leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
